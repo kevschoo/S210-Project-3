@@ -68,7 +68,7 @@ Material:
     - _DstBlend: 0
     - _FlickerSpeed: 1
     - _Fold: 3
-    - _GlitchIntensity: 0.1
+    - _GlitchIntensity: 0.09
     - _GlitchSpeed: 8
     - _GlossMapScale: 1
     - _Glossiness: 0.5

@@ -90,7 +90,7 @@ Material:
     - _FlickerSpeed: 4
     - _Fold: 35
     - _Glitch: 1
-    - _GlitchIntensity: 0.25
+    - _GlitchIntensity: 0.1
     - _GlitchSpeed: 9.2
     - _GlossMapScale: 1
     - _Glossiness: 0.5

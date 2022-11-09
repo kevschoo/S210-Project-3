@@ -104,8 +104,8 @@ Material:
     - _RimFallness: 0.5
     - _RimPower: 1.16
     - _RimStrength: 1
-    - _ScanSpeed: -1.25
-    - _ScanTiling: 3
+    - _ScanSpeed: -0.25
+    - _ScanTiling: 2
     - _Scanline: 0
     - _ScanlineSpeed: 0.05
     - _ScanlineTiling: 5.9
